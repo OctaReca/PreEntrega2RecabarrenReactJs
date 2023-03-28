@@ -1,0 +1,12 @@
+.cart_items_total {
+    background-color: red;
+    color: white;
+    border-radius: 50%;
+    font-size: 10px;
+    padding: 4px;
+    top: 37px;
+    right: 14px;
+}
+.bi-cart3 {
+    color: red;
+}
